@@ -9,35 +9,35 @@ This project focuses on analyzing adult demographic data and predicting whether 
 The dataset used in this project is stored in a CSV format and contains the following columns:
 
 # Column Name	Description
-age	Age of the individual.
+age: 	Age of the individual.
 
-workclass	The type of employment or working class of the individual (e.g., Private, Self-Employed, etc.).
+workclass: 	The type of employment or working class of the individual (e.g., Private, Self-Employed, etc.).
 
-fnlwgt	Final weight of the individual, which is a weighting factor used to balance the dataset.
+fnlwgt: 	Final weight of the individual, which is a weighting factor used to balance the dataset.
 
-education	The highest level of education attained by the individual (e.g., Bachelors, Masters, etc.).
+education: 	The highest level of education attained by the individual (e.g., Bachelors, Masters, etc.).
 
-education.num	Numeric representation of the level of education (e.g., 13 for Bachelors, 14 for Masters).
+education num:  	Numeric representation of the level of education (e.g., 13 for Bachelors, 14 for Masters).
 
-marital.status	Marital status of the individual (e.g., Married, Single, Divorced, etc.).
+marital status: 	Marital status of the individual (e.g., Married, Single, Divorced, etc.).
 
-occupation	Occupation or profession of the individual (e.g., Tech Support, Exec-managerial, etc.).
+occupation: 	Occupation or profession of the individual (e.g., Tech Support, Exec-managerial, etc.).
 
-relationship	Relationship status of the individual (e.g., Husband, Wife, Not-in-family, etc.).
+relationship: 	Relationship status of the individual (e.g., Husband, Wife, Not-in-family, etc.).
 
-race	Racial background of the individual (e.g., White, Black, Asian, etc.).
+race:  	Racial background of the individual (e.g., White, Black, Asian, etc.).
 
-sex	Gender of the individual (Male or Female).
+sex: 	Gender of the individual (Male or Female).
 
-capital.gain	Amount of capital gained by the individual in the past year (e.g., from investments).
+capital gain: 	Amount of capital gained by the individual in the past year (e.g., from investments).
 
-capital.loss	Amount of capital lost by the individual in the past year (e.g., from investments).
+capital loss: 	Amount of capital lost by the individual in the past year (e.g., from investments).
 
-hours.per.week	Number of hours the individual works per week.
+hours per week: 	Number of hours the individual works per week.
 
-native.country	Country of origin of the individual (e.g., United States, Mexico, etc.).
+native country:  	Country of origin of the individual (e.g., United States, Mexico, etc.).
 
-income	The income class of the individual, which indicates if the individual earns more than $50K. (Target Variable)
+income:  	The income class of the individual, which indicates if the individual earns more than $50K. (Target Variable)
 
 # Target Variable:
 
